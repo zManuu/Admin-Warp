@@ -1,0 +1,7 @@
+name: Warp
+version: ${project.version}
+main: de.fantasypixel.warp.Warp
+api-version: 1.14
+authors: [ zManuu ]
+commands:
+  warp:
